@@ -4,7 +4,7 @@ export default {
   social: [
     {
       name: 'fork',
-      url: 'https://github.com/issuelog'
+      url: 'https://github.com/issuelog/issuelog'
     }
   ]
 };
