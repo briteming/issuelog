@@ -1,6 +1,6 @@
 # gitblog
 
-> A blog based on github issues, built with vuejs
+> A blog based on github issues, build with vuejs
 
 ## install
 
