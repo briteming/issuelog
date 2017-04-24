@@ -1,4 +1,4 @@
 export default {
-  owner: 'housne',
+  owner: 'issuelog',
   repo: 'hello'
 };
