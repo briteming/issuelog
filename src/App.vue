@@ -87,6 +87,9 @@ a{
   color: #50c87e;
   text-decoration: none;
 }
+strong {
+  font-weight: 700;
+}
 @keyframes flash {
   from {
     opacity: 1;

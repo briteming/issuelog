@@ -100,7 +100,7 @@ export default {
     font-size 14px
     padding-bottom 10px
   .post-title
-    font-size 1.6rem
+    font-size 2rem
     padding-bottom 20px
   .post-labels
     padding-top 20px
@@ -130,17 +130,23 @@ export default {
     line-height 1.7
     margin: 20px 0
   h1
-    font-size 1.4rem
+    font-size 1.8rem
+    margin-top 40px
   h2 
-    font-size 1.4rem
+    font-size 1.8rem
+    margin-top 40px
   h3 
-    font-size 1.2rem
+    font-size 1.6rem
+    margin-top 40px
   h4 
-    font-size 1.2rem
+    font-size 1.4rem
+    margin-top 40px
   h5 
     font-size 1rem
+    margin-top 40px
   h6 
     font-size .8rem
+    margin-top 40px
   code
     display inline-block
     background rgba(0, 0, 0, .05)
