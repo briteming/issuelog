@@ -1,4 +1,4 @@
 export default {
-  owner: 'issuelog',
-  repo: 'hello'
+  owner: 'briteming',
+  repo: 'issuelog'
 };
